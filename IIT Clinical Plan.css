@@ -1,0 +1,217 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, sans-serif;
+}
+
+#BG_1706507994395_99193 {
+  border-radius: 0px;
+  display: grid;
+  -webkit-grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -webkit-grid-template-rows: auto auto auto auto auto auto;
+  grid-template-rows: auto auto auto auto auto auto;
+}
+
+#BG_1706509370081_14937 {
+  -webkit-grid-area: 1 / 1 / span 6 / 1;
+  grid-area: 1 / 1 / span 6 / 1;
+  background-color: rgba(0, 0, 45, 0.6);
+  height: auto;
+}
+
+#BG_1706509270434_76411 {
+  -webkit-grid-area: 7 / 1 / 7 / span 3;
+  grid-area: 7 / 1 / 7 / span 3;
+  height: 200px;
+  background-color: #00001c;
+}
+
+#BG_1706509580825_84488 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  width: 850px;
+  height: 280px;
+  background-size: cover;
+  background-attachment: scroll;
+  background-image: url("GettyImages-823447778.jpg");
+}
+
+#BG_1706509641086_7427 {
+  -webkit-grid-area: 2 / 2 / 2 / 2;
+  grid-area: 2 / 2 / 2 / 2;
+  height: 300px;
+  display: grid;
+  width: 850px;
+  position: relative;
+}
+
+#BG_1706509641086_7427::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 750px;
+  height: 1px;
+  background-color: navy;
+}
+
+#BG_1706509666776_49258 {
+  -webkit-grid-area: 3 / 2 / 3 / 2;
+  grid-area: 3 / 2 / 3 / 2;
+  height: 650px;
+  width: 850px;
+}
+
+#BG_1706509690716_55197 {
+  -webkit-grid-area: 4 / 2 / 4 / 2;
+  grid-area: 4 / 2 / 4 / 2;
+  height: 550px;
+  width: 850px;
+}
+
+#BG_1706509706293_80041 {
+  -webkit-grid-area: 5 / 2 / 5 / 2;
+  grid-area: 5 / 2 / 5 / 2;
+  height: 420px;
+  width: 850px;
+}
+
+#BG_1706509727577_23509 {
+  -webkit-grid-area: 6 / 2 / 6 / 2;
+  grid-area: 6 / 2 / 6 / 2;
+  height: 400px;
+  width: 850px;
+}
+
+#BG_1706509753260_81665 {
+  -webkit-grid-area: 1 / 3 / span 6 / 3;
+  grid-area: 1 / 3 / span 6 / 3;
+  background-color: rgba(0, 0, 45, 0.6);
+  height: auto;
+}
+
+#BG_1706512590011_37781 {
+  display: grid;
+}
+
+#BG_1706512636647_10040 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+}
+
+#BG_1706512668063_21793 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  background-image: url("%EC%9B%90%EB%8D%B0%EC%9D%B4%EB%A9%B4%EC%97%AD-09.png");
+  width: 250px;
+  height: 300px;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+#BG_1706512844428_19074 {
+  font-family: "Bahnschrift";
+  font-size: 25px;
+  padding-left: 50px;
+  padding-top: 40px;
+}
+
+#BG_1706512886092_69727 {
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+  font-size: 20px;
+}
+
+#BG_1706512939814_36892 {
+  font-family: "Bahnschrift";
+  font-size: 18px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+#BG_1706514025819_62061 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+}
+
+#BG_1706514050798_37994 {
+  padding-left: 50px;
+  padding-top: 40px;
+  font-family: "Bahnschrift";
+  padding-right: 40px;
+}
+
+#BG_1706514251536_25511 {
+  margin-top: 20px;
+  width: 700px;
+  height: 374.605px;
+}
+
+#BG_1706514662661_43773 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+}
+
+#BG_1706514804630_38552 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+  margin-top: 40px;
+}
+
+#BG_1706515168362_77842 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+}
+
+#BG_1706515212026_80913 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-right: 40px;
+}
+
+#BG_1706514872792_78931 {
+  padding-top: 20px;
+}
+
+#BG_1706515518905_3999 {
+  padding-top: 20px;
+}
+
+#BG_1706515806451_29015 {
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+}
+
+#BG_1706518058373_59451 {
+  text-decoration: none;
+  font-family: "Bahnschrift";
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-left: 30px;
+}
+
+#BG_1706518064313_72846 {
+  text-decoration: none;
+  font-family: "Bahnschrift";
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#BG_1706519208740_25601 {
+  text-decoration: none;
+  border-radius: 20px;
+  border: 1px solid black;
+  font-family: "Bahnschrift";
+  background-color: #003333;
+  margin: 40px;
+}
+
+#BG_1706519683956_84743 {
+  color: white;
+  font-size: 15px;
+  width: 1000px;
+}
+

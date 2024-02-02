@@ -1,0 +1,179 @@
+* {
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+#BG_1706588429585_78543 {
+  -webkit-grid-area: 1 / 1 / span 3 / 1;
+  grid-area: 1 / 1 / span 3 / 1;
+  background-image: url("");
+  background-color: #e4e0db;
+}
+
+#BG_1706588472329_93639 {
+  -webkit-grid-area: 4 / 1 / 4 / span 3;
+  grid-area: 4 / 1 / 4 / span 3;
+  height: 200px;
+}
+
+#BG_1706588498800_39474 {
+  display: grid;
+  -webkit-grid-template-columns: 1fr 850px 1fr;
+  grid-template-columns: 1fr 850px 1fr;
+  -webkit-grid-template-rows: 200px 1fr;
+  grid-template-rows: 200px 1fr;
+}
+
+#BG_1706588554856_71725 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  width: 850px;
+  height: 280px;
+  background-image: url("GettyImages-1189780516_edited.jpg");
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+#BG_1706588630967_28266 {
+  -webkit-grid-area: 2 / 2 / 2 / 2;
+  grid-area: 2 / 2 / 2 / 2;
+  width: 850px;
+  height: 400px;
+}
+
+#BG_1706588646571_41284 {
+  -webkit-grid-area: 3 / 2 / 3 / 2;
+  grid-area: 3 / 2 / 3 / 2;
+  height: 400px;
+}
+
+#BG_1706588715395_3375 {
+  -webkit-grid-area: 1 / 3 / span 3 / 3;
+  grid-area: 1 / 3 / span 3 / 3;
+  background-color: #e4e0db;
+  
+}
+
+.grid-container {
+  display: grid;
+}
+
+.grid-item {
+}
+
+.text-grid-item {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 65%;
+  padding-left: 50px;
+}
+
+.image-grid-item {
+  -webkit-grid-area: 1 / 1 / auto / auto;
+  grid-area: 1 / 1 / auto / auto;
+  height: 350px;
+  width: 400px;
+}
+
+.text-below-item {
+  -webkit-grid-area: auto / auto / auto / auto;
+  grid-area: auto / auto / auto / auto;
+  position: absolute;
+}
+
+.image-below-item {
+  -webkit-grid-area: 3 / 1 / auto / auto;
+  grid-area: 3 / 1 / auto / auto;
+  position: absolute;
+}
+
+.image-below-item img {
+  max-width: 100%;
+}
+
+#BG_1706591150784_34941 {
+  background-image: url("2240.jpg");
+  background-size: cover;
+  position: absolute;
+ 
+}
+
+#BG_1706591463850_20525 {
+  height: 150px;
+  z-index: 1;
+}
+
+#BG_1706593071441_16638 {
+  position: absolute;
+  height: 160px;
+  width: 384px;
+  background-image: url("stomatology1.jpg");
+  background-size: cover;
+}
+
+#BG_1706592847477_13212 {
+  position: absolute;
+  width: 80px;
+  height: 160px;
+  background-image: url("stomatology2.jpg");
+  background-size: cover;
+}
+
+#BG_1706593361074_42153 {
+  font-family: "Bahnschrift";
+  border-radius: 20px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+
+#BG_1706672008070_78400 {
+  margin: 40px;
+}
+
+#BG_1706591794079_12277 {
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+  padding-top: 70px;
+}
+
+#BG_1706673018341_89377 {
+  text-decoration: none;
+}
+
+#BG_1706673085296_69899 {
+  text-decoration: none;
+  font-family: "Bahnschrift";
+  border: 1px solid black;
+  border-radius: 20px;
+  color: white;
+  background-color: #002121;
+}
+
+#BG_1706677155528_4879 {
+  text-decoration: none;
+}
+
+#BG_1706834709067_82563 {
+}
+
+#grid-item4 {
+  height: 550px;
+  order: 0;
+  -webkit-grid-area: 2 / 2 / 2 / 2;
+  grid-area: 2 / 2 / 2 / 2;
+}
+
+#BG_1706835619782_29842 {
+  position: absolute;
+}
+
+#BG_1706835726581_65520 {
+  padding-left: 200px;
+  position: relative;
+}
+

@@ -1,0 +1,133 @@
+#BG_1706683795992_15969 {
+  display: grid;
+  -webkit-grid-template-columns: 1fr 850px 1fr;
+  grid-template-columns: 1fr 850px 1fr;
+  -webkit-grid-template-rows: 200px 1fr;
+  grid-template-rows: 200px 1fr;
+}
+
+#BG_1706683808231_83031 {
+  -webkit-grid-area: 1 / 1 / span 3 / 1;
+  grid-area: 1 / 1 / span 3 / 1;
+  background-color: rgba(0, 0, 41, 0.7);
+}
+
+#BG_1706683829871_20680 {
+  -webkit-grid-area: 4 / 1 / 4 / span 3;
+  grid-area: 4 / 1 / 4 / span 3;
+  height: 200px;
+}
+
+#BG_1706683877628_36798 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  width: 850px;
+  height: 280px;
+  background-image: url("%ED%8F%AC%ED%86%A0%EC%A7%84.png");
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+#BG_1706683905743_44938 {
+  -webkit-grid-area: 2 / 2 / 2 / 2;
+  grid-area: 2 / 2 / 2 / 2;
+  width: 850px;
+  height: 500px;
+  display: grid;
+  order: 0;
+}
+
+#BG_1706683924926_52788 {
+  -webkit-grid-area: 3 / 2 / 3 / 2;
+  grid-area: 3 / 2 / 3 / 2;
+  width: 850px;
+  height: 450px;
+  display: grid;
+}
+
+#BG_1706683978083_43907 {
+  -webkit-grid-area: 1 / 3 / span 3 / 3;
+  grid-area: 1 / 3 / span 3 / 3;
+  background-color: rgba(0, 0, 41, 0.7);
+}
+
+#BG_1706685254015_12934 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+}
+
+#BG_1706685271446_57704 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  background-image: url("%EC%9B%90%EB%8D%B0%EC%9D%B4%EB%A9%B4%EC%97%AD-10.png");
+  background-size: cover;
+  background-attachment: scroll;
+  height: 200px;
+  width: 160px;
+  margin-top: 100px;
+}
+
+#text_below_items {
+  -webkit-grid-area: 2 / 1 / 2 / 3;
+  grid-area: 2 / 1 / 2 / 3;
+}
+
+#BG_1706685935464_87845 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+  padding-left: 50px;
+  font-size: 40px;
+  font-family: "Bahnschrift";
+  padding-top: 130px;
+}
+
+#BG_1706687400491_80512 {
+  font-size: 20px;
+  font-family: "Bahnschrift";
+  padding-left: 50px;
+}
+
+#BG_1706687504795_85541 {
+  padding-left: 50px;
+}
+
+#BG_1706688379091_93387 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+}
+
+#BG_1706688397464_74555 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+}
+
+#BG_1706688917242_86833 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+}
+
+#BG_1706689145082_85616 {
+  border: 1px solid black;
+}
+
+#BG_1706519208740_25601 {
+  border-style: none;
+}
+
+#BG_1706519208740_25601 {
+  text-decoration: none;
+  border-radius: 20px;
+  border: 1px solid black;
+  font-family: "Bahnschrift";
+  background-color: #003333;
+  margin: 40px;
+}
+
+#BG_1706689794951_83534 {
+  padding-top: 100px;
+}
+
+#BG_1706689866111_74675 {
+  background-size: cover;
+}
+

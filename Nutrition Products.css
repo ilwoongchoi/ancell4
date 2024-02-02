@@ -1,0 +1,167 @@
+#BG_1706693780193_27093 {
+  display: grid;
+  -webkit-grid-template-columns: 1fr 850px 1fr;
+  grid-template-columns: 1fr 850px 1fr;
+  -webkit-grid-template-rows: 200px 1fr;
+  grid-template-rows: 200px 1fr;
+}
+
+#BG_1706693876659_92103 {
+  -webkit-grid-area: 1 / 1 / span 3 / 1;
+  grid-area: 1 / 1 / span 3 / 1;
+  background-color: rgba(228, 224, 219, 0.7);
+}
+
+#BG_1706693891449_11331 {
+  -webkit-grid-area: 4 / 1 / 4 / span 3;
+  grid-area: 4 / 1 / 4 / span 3;
+  height: 200px;
+}
+
+#BG_1706693912225_11712 {
+  -webkit-grid-area: 1 / 2 / 1 / span 2;
+  grid-area: 1 / 2 / 1 / span 2;
+  width: 850px;
+  height: 280px;
+  background-size: cover;
+  background-attachment: scroll;
+  background-image: url("GettyImages-1179790021.jpg");
+}
+
+#BG_1706693936498_83346 {
+  -webkit-grid-area: 3 / 2 / 3 / 2;
+  grid-area: 3 / 2 / 3 / 2;
+  height: 500px;
+  width: 850px;
+}
+
+#BG_1706693955296_90233 {
+  -webkit-grid-area: 1 / 3 / span 3 / 3;
+  grid-area: 1 / 3 / span 3 / 3;
+  background-color: rgba(228, 224, 219, 0.7);
+}
+
+#BG_1706746174637_74363 {
+  width: 850px;
+  -webkit-grid-area: 2 / 2 / 2 / 2;
+  grid-area: 2 / 2 / 2 / 2;
+  height: 500px;
+}
+
+#BG_1706746638526_38490 {
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+  font-size: 45px;
+  padding-top: 50px;
+}
+
+#BG_1706746646518_59976 {
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+  font-size: 25px;
+  margin-top: -35px;
+}
+
+#BG_1706746944775_95094 {
+  display: grid;
+}
+
+#BG_1706746953038_62965 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+}
+
+#BG_1706746963897_62357 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+  font-family: "Bahnschrift";
+}
+
+.more-info {
+  border: 1px solid black;
+  padding: 2px 5px;
+}
+
+#BG_1706748028476_61807 {
+  border-radius: 20px;
+}
+
+#BG_1706748028476_61807:hover {
+  background-color: black;
+  color: white;
+}
+
+#BG_1706748524035_93700 {
+  width: 750px;
+  height: 200.787px;
+}
+
+#BG_1706749367384_73501 {
+  -webkit-grid-area: 1 / 1 / 1 / 1;
+  grid-area: 1 / 1 / 1 / 1;
+}
+
+#BG_1706749352364_74090 {
+  display: grid;
+}
+
+#BG_1706749466841_99055 {
+  -webkit-grid-area: 1 / 2 / 1 / 2;
+  grid-area: 1 / 2 / 1 / 2;
+}
+
+#BG_1706749629908_59980 {
+  padding-left: 50px;
+  font-family: "Bahnschrift";
+}
+
+#BG_1706749756645_78591 {
+  height: 387.705px;
+  width: 750px;
+  padding-top: 20px;
+}
+
+#BG_1706750019669_2050 {
+  width: 750px;
+  height: 200.787px;
+}
+
+#BG_1706750196485_74079 {
+  border-color: black;
+  border-style: solid;
+}
+
+#BG_1706750214850_26674 {
+  border-style: solid;
+}
+
+#BG_1706750321019_55045 {
+  font-family: "Bahnschrift";
+}
+
+.back {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+#BG_1706750664151_27039 {
+  border-radius: 20px / 0px;
+}
+
+#BG_1706751073215_6421 {
+  float: none;
+}
+
+#BG_1706751423133_85633 {
+  text-decoration: none;
+}
+
+.back a {
+  text-decoration: none;
+}
+

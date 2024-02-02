@@ -1,0 +1,106 @@
+User body {
+  font-family: Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: black;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.grid-container {
+  display: grid;
+  -webkit-grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 200px 200px 200px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.grid-item {
+  text-align: center;
+  padding: 20px;
+}
+
+#BG_1706174417508_2331 {
+  -webkit-grid-column-gap: 50px;
+  grid-column-gap: 50px;
+  -webkit-grid-template-rows: 150px;
+  grid-template-rows: 150px;
+}
+
+#BG_1706174766693_77204 {
+  font-size: 15px;
+}
+
+#BG_1706174915501_10038 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706174966261_80338 {
+  background-color: transparent;
+}
+
+#BG_1706175378137_38455 {
+  font-family: "Bahnschrift";
+  font-size: 15px;
+}
+
+#BG_1706175429432_61111 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706175581870_13805 {
+  font-family: "Bahnschrift";
+  font-size: 15px;
+}
+
+#BG_1706175893464_31544 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706176149043_43211 {
+  text-align: center;
+  padding-top: 250px;
+  font-family: "Bahnschrift";
+}
+
+#BG_1706176354160_59121 {
+  padding-top: 200px;
+}
+
+#BG_1706176434685_89359 {
+  background-attachment: fixed;
+}
+
+#BG_1706176470275_22590 {
+}
+

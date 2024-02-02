@@ -1,0 +1,251 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.content-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f4f4f4;
+  min-height: 600px;
+  text-align: center;
+}
+
+#BG_1704866497343_54548 {
+  background-size: cover;
+  background-image: url("14.jpg");
+  font-family: "Bahnschrift";
+  font-size: 20px;
+  height: 900px;
+  background-attachment: fixed;
+}
+
+.grid-container {
+  display: grid;
+  -webkit-grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-between;
+  margin-top: 20px;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid-item {
+  height: 250px;
+  margin: 0px 10px;
+}
+
+#BG_1704868374040_30489 {
+  width: 300px;
+  border-left: 10px solid #ff6600;
+  background-color: rgba(0, 0, 63, 0.5);
+}
+
+#BG_1704868374040_30489:hover {
+  width: 300px;
+  border-left: 10px solid #ff6600;
+  background-color: rgba(255, 102, 0, 0.7);
+}
+
+#BG_1704868391278_55203 {
+  width: 300px;
+  border-left: 10px solid #00ad00;
+  background-color: rgba(0, 0, 63, 0.5);
+}
+
+#BG_1704868391278_55203:hover {
+  width: 300px;
+  border-left: 10px solid #00ad00;
+  background-color: rgba(0, 173, 0, 0.7);
+}
+
+#contentsection {
+  background-size: cover;
+  font-family: "Bahnschrift";
+  height: 1200px;
+  background-image: url("15.jpg");
+  background-attachment: fixed;
+}
+
+#content-section {
+  background-size: cover;
+  background-image: url("16.jpg");
+  background-attachment: fixed;
+}
+
+.grid-container {
+  width: 80%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.grid-section {
+  display: grid;
+  -webkit-grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -webkit-grid-gap: 20px;
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.grid-item {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  width: 250px;
+}
+
+#grid-item {
+  background-size: cover;
+  text-decoration: none;
+  background-image: url("17.jpg");
+}
+
+#grid-item2 {
+  text-decoration: none;
+  background-image: url("18.jpg");
+}
+
+#grid-item3 {
+  background-size: cover;
+  text-decoration: none;
+  background-image: url("19.jpg");
+}
+
+#grid-item:hover {
+  background-image: linear-gradient(rgba(255, 102, 0, 0.7), rgba(255, 102, 0, 0.7)), url("../../Pictures/ancell%20website/KakaoTalk_20240111_092838483_03.jpg");
+  background-size: cover;
+  opacity: 0.6;
+}
+
+#grid-item2:hover {
+  background-image: linear-gradient(rgba(255, 102, 0, 0.7), rgba(255, 102, 0, 0.7)), url("../../Pictures/ancell%20website/KakaoTalk_20240111_092838483_02.jpg");
+  opacity: 0.6;
+}
+
+#grid-item3:hover {
+  background-image: linear-gradient(rgba(255, 102, 0, 0.7), rgba(255, 102, 0, 0.7)), url("../../Pictures/ancell%20website/KakaoTalk_20240111_092838483_01.jpg");
+  background-size: cover;
+  opacity: 0.6;
+}
+
+.separator {
+  width: 120px;
+  border: 1px solid #006600;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+#BG_1706167506031_68704 {
+  font-size: 45px;
+}
+
+#BG_1706866991279_97813 {
+  font-family: "Bahnschrift";
+  font-size: 45px;
+}
+
+#BG_1706867086548_74105 {
+  font-size: 20px;
+}
+
+#BG_1706867090947_11033 {
+  font-size: 20px;
+}
+
+#BG_1706867096539_18376 {
+  font-size: 20px;
+}
+
+#BG_1706168115422_83271 {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+#BG_1706867492672_94096 {
+  font-family: "Bahnschrift";
+  font-size: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+#BG_1706168519225_63957 {
+  font-size: 30px;
+  font-family: "Bahnschrift";
+}
+
+#BG_1706168513209_2572 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706867544870_31333 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706867563504_42349 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706867568717_55907 {
+  font-family: "Bahnschrift";
+}
+
+#BG_1706167278864_82988 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#p5 {
+  font-size: 25px;
+}
+
+#h3 {
+  font-size: 45px;
+  padding-top: 30px;
+}
+
+#BG_1706868778757_64994 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#BG_1706866935440_48265 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#BG_1706168544411_7455 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
